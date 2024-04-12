@@ -312,7 +312,7 @@
     "ProcessTemplates": false,
     "enGB": "A Telekineticist can perform combat maneuvers (trip, disarm, bullrush, pull) at range using your main Kineticist stat. \nIf you possess the Telekinetic Finesse wild talent, add Dirty Trick to the list of combat maneuvers you can perform; using Dexterity instead of your main Kineticist stat.",
     "ruRU": "Телекинетик может совершать боевые маневры (Сбивание с ног, Разоружение, Таран, Притягивание) на расстоянии, используя свою основную характеристику кинетика.\nЕсли у вас есть Телекинетическое искусство, добавьте Грязный трюк к списку боевых маневров, которые вы можете совершить, используюя Ловкость вместо основной характеристики кинетика.",
-    "zhCN": "你能够以心灵念力执行战技，但是你会使用操念使主要属性来判断战技加值。若你具有精密念动（telekinetic finesse）原力，则可以将阴招（dirty trick）和盗取（steal）战技加到你能够执行的战技列表中；当你执行这些战技时，使用敏捷调整值来判断战技加值。"
+    "zhCN": "你能够以心灵念力执行战技，但是你会使用操念使主要属性来判断战技加值。若你具有念动戏法（telekinetic finesse）原力，则可以将阴招（dirty trick）和盗取（steal）战技加到你能够执行的战技列表中；当你执行这些战技时，使用敏捷调整值来判断战技加值。"
   },
   {
     "Key": "Aether.Maneuvers.Pull.Name",

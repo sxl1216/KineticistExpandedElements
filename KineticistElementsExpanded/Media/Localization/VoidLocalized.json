@@ -67,7 +67,7 @@
     "ProcessTemplates": true,
     "enGB": "Element: Void\nType: simple blast\nLevel: —\nBurn: 0\nBlast Type: physical\n{g|Encyclopedia:Damage}Damage{/g}: {g|Encyclopedia:Damage_Type}bludgeoning{/g}\nYou manipulate gravity to distort and buffet your foe’s body.",
     "ruRU": "Элемент: Пустота\nТип: простой заряд\nКруг: —\nВыгорание: 0\nТип заряда: физический\n{g|Encyclopedia:Damage}Урон{/g}: {g|Encyclopedia:Damage_Type}дробящий{/g}\nВы оперируете гравитацией, чтобы исказить и смять тело врага.",
-    "zhCN": "元素: 虚空\n类别: 简易念袭\nLevel: —\n超载: 0\n念袭性质: 物理\n{g|Encyclopedia:Damage}伤害类型{/g}: {g|Encyclopedia:Damage_Type}盾击{/g}\n你操控重力碾碎你的敌人。"
+    "zhCN": "元素: 虚空\n类别: 简易念袭\nLevel: —\n超载: 0\n念袭性质: 物理\n{g|Encyclopedia:Damage}伤害类型{/g}: {g|Encyclopedia:Damage_Type}钝击{/g}\n你操控重力碾碎你的敌人。"
   },
   {
     "Key": "Gravity.Blade.Prefix",
@@ -151,7 +151,7 @@
     "ProcessTemplates": false,
     "enGB": "Element: void\nType: composite blast\nLevel: —\nBurn: 2\nPrerequisite(s): gravity blast, any other physical simple blast\nBlast Type: special\n{g|Encyclopedia:Damage}Damage{/g}: see text\nYou infuse a simple physical blast with added gravity, increasing its damage dice from d6s to d8s; it otherwise deals damage as per the simple blast.",
     "ruRU": "Элемент: Пустота\nТип: составной заряд\nКруг: —\nВыгорание: 2\nТребования: заряд гравитации, любой другой физический простой заряд\nТип заряда: специальный\n{g|Encyclopedia:Damage}Урон{/g}: смотри описание\nВы усиливаете простой физический заряд гравитацией, увеличивая кость урона с d6 до d8; в остальном усиленный заряд наносит урон как простой заряд.",
-    "zhCN": "元素: 虚空\n类别: 复合念袭\n等级: —\n超载: 2\n前置: 重压, 任意其他简易念\n念袭性质: 特殊\n{g|Encyclopedia:Damage}伤害类型{/g}: 见后文\n你将重压加入到一个简易物理念袭中，将伤害骰从d6增加到d8；在其他方面则如同简易念袭一般造成伤害。"
+    "zhCN": "元素: 虚空\n类别: 复合念袭\n等级: —\n超载: 2\n前置: 重压, 任意其他简易物理念袭\n念袭性质: 特殊\n{g|Encyclopedia:Damage}伤害类型{/g}: 见后文\n你将重压加入到一个简易物理念袭中，将伤害骰从d6增加到d8；在其他方面则如同简易念袭一般造成伤害。"
   },
   {
     "Key": "Void.Admixture.Gravity.Greater.Name",
@@ -165,7 +165,7 @@
     "ProcessTemplates": false,
     "enGB": "Element: void\nType: composite blast\nLevel: —\nBurn: 3\nPrerequisite(s): gravity blast, any other physical composite blast\nBlast Type: special\n{g|Encyclopedia:Damage}Damage{/g}: see text\nYou infuse a composite physical blast with added gravity, increasing its damage dice from d6s to d8s.",
     "ruRU": "Элемент: Пустота\nТип: составной заряд\nКруг: —\nВыгорание: 3\nТребования: заряд гравитации, любой другой физический составной заряд\nТип заряда: специальный\n{g|Encyclopedia:Damage}Урон{/g}: смотри описание\nВы усиливаете составной физический заряд гравитацией, увеличивая кость урона с d6 до d8",
-    "zhCN": "元素: 虚空\n类别: 复合念袭\n等级: —\n超载: 3\n前置: 重压, 任意其他复合物理念袭\n念袭性质: 特殊\n{g|Encyclopedia:Damage}伤害类型{/g}: 见后文\n你将重压加入到一个复合物理念袭中，将伤害骰从d6增加到d8；在其他方面则如同简易念袭一般造成伤害。"
+    "zhCN": "元素: 虚空\n类别: 复合念袭\n等级: —\n超载: 3\n前置: 重压, 任意其他复合物理念袭\n念袭性质: 特殊\n{g|Encyclopedia:Damage}伤害类型{/g}: 见后文\n你将重压加入到一个复合物理念袭中，将伤害骰从d6增加到d8；在其他方面则如同复合念袭一般造成伤害。"
   },
   {
     "Key": "Void.Admixture.Negative.Name",
@@ -179,7 +179,7 @@
     "ProcessTemplates": false,
     "enGB": "Element: void\nType: composite blast\nLevel: —\nBurn: 2\nPrerequisite(s): negative blast, any other energy simple blast\nBlast Type: special\n{g|Encyclopedia:Damage}Damage{/g}: see text\nChoose another simple energy blast you know. Negative admixture’s damage is half negative energy, and half the chosen blast’s type.",
     "ruRU": "Элемент: Пустота\nТип: составной заряд\nКруг: —\nВыгорание: 2\nТребования: негативный заряд, любой другой энергетический простой заряд\nТип заряда: специальный\n{g|Encyclopedia:Damage}Урон{/g}: смотри описание\nВыберите другой простой энергетический заряд, известный вам. Урон негативной примеси наполовину негативной энергией, наполовину выбранного простого заряда.",
-    "zhCN": "元素: 虚空\n类别: 复合念袭\n等级: —\n超载: 2\n前置: 负能, 任意其他简易念袭\n念袭性质: 特殊\n{g|Encyclopedia:Damage}伤害类型{/g}: 见后文\n选择你所知的另一个简易念袭击。负能混爆的伤害一半为负能量，一半为你所选择念袭的类型。"
+    "zhCN": "元素: 虚空\n类别: 复合念袭\n等级: —\n超载: 2\n前置: 负能, 任意其他简易念袭\n念袭性质: 特殊\n{g|Encyclopedia:Damage}伤害类型{/g}: 见后文\n选择你所知的另一个简易念袭。负能混爆的伤害一半为负能量，一半为你所选择念袭的类型。"
   },
   {
     "Key": "Void.BonusWild.Name",
@@ -319,7 +319,7 @@
     "ProcessTemplates": false,
     "enGB": "Element: void\nType: substance infusion\nLevel: 7\nBurn: 4\nAssociated Blasts: negative, void\n{g|Encyclopedia:Saving_Throw}Saving Throw{/g}: Fortitude negates\nYour kinetic blast drains life force. Foes that take damage from your infused blast also take 1 temporary negative level. Negative levels from this infusion fade after 24 hours and never become permanent.",
     "ruRU": "Элемент: Пустота\nТип: вливание эссенции\nКруг: 7\nВыгорание: 4\nСвязанные заряды: негативный, Пустоты\n{g|Encyclopedia:Saving_Throw}Спасбросок{/g}: Стойкости нейтрализует\nВаш кинетический заряд вытягивает жизненную силу. Враги, получившие урон от заряда также получают 1 негативный уровень. Негативные уровни от этого вливания снимаются после 24 часов и не могут стать постоянными.",
-    "zhCN": "元素：虚空\n类别：性质注能\n等级: 7\n超载: 4\n关联念袭类别: 负能，虚无力\n{g|Encyclopedia:Saving_Throw}豁免{/g}: 强韧，通过则无效\n你的念袭击能够吸取生命的力量。每当注能念袭对敌人造成伤害时，同时使其获得1个临时负向等级。由此注能造成的负向等级会在24小时后被移除，并且永远不会成为永久负向等级。"
+    "zhCN": "元素：虚空\n类别：性质注能\n等级: 7\n超载: 4\n关联念袭类别: 负能，虚无力\n{g|Encyclopedia:Saving_Throw}豁免{/g}: 强韧，通过则无效\n你的念袭能够吸取生命的力量。每当注能念袭对敌人造成伤害时，同时使其获得1个临时负向等级。由此注能造成的负向等级会在24小时后被移除，并且永远不会成为永久负向等级。"
   },
   {
     "Key": "Void.Pulling.Name",
